@@ -4,6 +4,8 @@ import tempfile
 import os
 from ultralytics import YOLO
 import json
+import shutil
+
 
 # paths
 UPLOAD_DIR = "uploaded_videos"
@@ -113,10 +115,10 @@ def main():
         with st.spinner(f"Analyzing {uploaded_file.name}..."):
             result = process_video(tmp_path)
 
-        # Move to appropriate directory
+        # Move to appropriate directory using shutil.move to handle cross-device moves
         dest_dir = UPLOAD_DIR if result["is_safe"] else DISCARD_DIR
         dest_path = os.path.join(dest_dir, uploaded_file.name)
-        os.rename(tmp_path, dest_path)
+        shutil.move(tmp_path, dest_path)
 
         # Display results
         if result["is_safe"]:
