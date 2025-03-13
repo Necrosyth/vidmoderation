@@ -1,0 +1,1028 @@
+{
+  "test_config": {
+    "api_url": "http://localhost:8000/analyze",
+    "total_requests": 100,
+    "max_concurrent_requests": 10
+  },
+  "results": [
+    {
+      "request_id": 0,
+      "timestamp": "2025-02-24T12:39:40.352438",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.1242377758026123,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 1,
+      "timestamp": "2025-02-24T12:39:40.507930",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.27972936630249023,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 2,
+      "timestamp": "2025-02-24T12:39:40.507930",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.27972936630249023,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 3,
+      "timestamp": "2025-02-24T12:39:40.353225",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.12502479553222656,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 4,
+      "timestamp": "2025-02-24T12:39:40.461876",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.23367524147033691,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 5,
+      "timestamp": "2025-02-24T12:39:40.353225",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.12502479553222656,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 6,
+      "timestamp": "2025-02-24T12:39:40.508931",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.280731201171875,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 7,
+      "timestamp": "2025-02-24T12:39:40.461876",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.23367524147033691,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 8,
+      "timestamp": "2025-02-24T12:39:40.508931",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.280731201171875,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 9,
+      "timestamp": "2025-02-24T12:39:40.462879",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.2346782684326172,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 10,
+      "timestamp": "2025-02-24T12:39:42.183334",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.20284724235534668,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 11,
+      "timestamp": "2025-02-24T12:39:42.152284",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.1717972755432129,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 12,
+      "timestamp": "2025-02-24T12:39:42.105155",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.12466835975646973,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 13,
+      "timestamp": "2025-02-24T12:39:42.151274",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.17078709602355957,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 14,
+      "timestamp": "2025-02-24T12:39:42.183334",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.20284724235534668,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 15,
+      "timestamp": "2025-02-24T12:39:42.151274",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.17078709602355957,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 16,
+      "timestamp": "2025-02-24T12:39:42.182329",
+      "video_name": "valid.mp4",
+      "video_size_mb": 0.4187765121459961,
+      "status_code": "error",
+      "duration": 0.2018420696258545,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 17,
+      "timestamp": "2025-02-24T12:39:42.183334",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.20284724235534668,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 18,
+      "timestamp": "2025-02-24T12:39:42.151274",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.17078709602355957,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 19,
+      "timestamp": "2025-02-24T12:39:42.276552",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.2960653305053711,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 20,
+      "timestamp": "2025-02-24T12:39:43.210869",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.23441410064697266,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 21,
+      "timestamp": "2025-02-24T12:39:43.132510",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.15527677536010742,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 22,
+      "timestamp": "2025-02-24T12:39:43.211946",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.2347126007080078,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 23,
+      "timestamp": "2025-02-24T12:39:43.257975",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.28074169158935547,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 24,
+      "timestamp": "2025-02-24T12:39:43.258969",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.281735897064209,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 25,
+      "timestamp": "2025-02-24T12:39:43.257975",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.28074169158935547,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 26,
+      "timestamp": "2025-02-24T12:39:43.132510",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.15527677536010742,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 27,
+      "timestamp": "2025-02-24T12:39:43.164466",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.18723249435424805,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 28,
+      "timestamp": "2025-02-24T12:39:43.086669",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.1094353199005127,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 29,
+      "timestamp": "2025-02-24T12:39:43.258969",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.281735897064209,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 30,
+      "timestamp": "2025-02-24T12:39:44.914446",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.2349843978881836,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 31,
+      "timestamp": "2025-02-24T12:39:44.913413",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.23395109176635742,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 32,
+      "timestamp": "2025-02-24T12:39:44.867782",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.18831968307495117,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 33,
+      "timestamp": "2025-02-24T12:39:44.914446",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.2349843978881836,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 34,
+      "timestamp": "2025-02-24T12:39:44.806423",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.12696170806884766,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 35,
+      "timestamp": "2025-02-24T12:39:44.806423",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.12615275382995605,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 36,
+      "timestamp": "2025-02-24T12:39:44.914446",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.234175443649292,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 37,
+      "timestamp": "2025-02-24T12:39:44.976289",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.296018123626709,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 38,
+      "timestamp": "2025-02-24T12:39:44.806423",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.12615275382995605,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 39,
+      "timestamp": "2025-02-24T12:39:44.837212",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.15694093704223633,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 40,
+      "timestamp": "2025-02-24T12:39:45.926353",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.187286376953125,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 41,
+      "timestamp": "2025-02-24T12:39:45.926353",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.187286376953125,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 42,
+      "timestamp": "2025-02-24T12:39:45.957370",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.21830344200134277,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 43,
+      "timestamp": "2025-02-24T12:39:45.988657",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.2495894432067871,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 44,
+      "timestamp": "2025-02-24T12:39:45.879034",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.1399674415588379,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 45,
+      "timestamp": "2025-02-24T12:39:46.035960",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.2968933582305908,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 46,
+      "timestamp": "2025-02-24T12:39:45.879034",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.1399674415588379,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 47,
+      "timestamp": "2025-02-24T12:39:46.035960",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.2968933582305908,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 48,
+      "timestamp": "2025-02-24T12:39:46.004789",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.26572203636169434,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 49,
+      "timestamp": "2025-02-24T12:39:46.036954",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.29788684844970703,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 50,
+      "timestamp": "2025-02-24T12:39:46.897534",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.20374608039855957,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 51,
+      "timestamp": "2025-02-24T12:39:46.867058",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.17327022552490234,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 52,
+      "timestamp": "2025-02-24T12:39:46.804013",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.11022520065307617,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 53,
+      "timestamp": "2025-02-24T12:39:46.803014",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.10922718048095703,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 54,
+      "timestamp": "2025-02-24T12:39:46.898525",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.20473742485046387,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 55,
+      "timestamp": "2025-02-24T12:39:46.897534",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.20374608039855957,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 56,
+      "timestamp": "2025-02-24T12:39:46.834445",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.1406571865081787,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 57,
+      "timestamp": "2025-02-24T12:39:46.867058",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.17327022552490234,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 58,
+      "timestamp": "2025-02-24T12:39:46.834445",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.1406571865081787,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 59,
+      "timestamp": "2025-02-24T12:39:46.960261",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.26647353172302246,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 60,
+      "timestamp": "2025-02-24T12:39:48.115384",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.20144391059875488,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 61,
+      "timestamp": "2025-02-24T12:39:48.180788",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.2668478488922119,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 62,
+      "timestamp": "2025-02-24T12:39:48.180788",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.2668478488922119,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 63,
+      "timestamp": "2025-02-24T12:39:48.037505",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.1235651969909668,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 64,
+      "timestamp": "2025-02-24T12:39:48.147748",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.23279643058776855,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 65,
+      "timestamp": "2025-02-24T12:39:48.179780",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.2648289203643799,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 66,
+      "timestamp": "2025-02-24T12:39:48.116394",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.20144224166870117,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 67,
+      "timestamp": "2025-02-24T12:39:48.178264",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.26331257820129395,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 68,
+      "timestamp": "2025-02-24T12:39:48.037505",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.12255358695983887,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 69,
+      "timestamp": "2025-02-24T12:39:48.147748",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.23279643058776855,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 70,
+      "timestamp": "2025-02-24T12:39:49.117031",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.220231294631958,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 71,
+      "timestamp": "2025-02-24T12:39:49.022096",
+      "video_name": "valid.mp4",
+      "video_size_mb": 0.4187765121459961,
+      "status_code": "error",
+      "duration": 0.12529659271240234,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 72,
+      "timestamp": "2025-02-24T12:39:49.117031",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.220231294631958,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 73,
+      "timestamp": "2025-02-24T12:39:49.085117",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.18831729888916016,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 74,
+      "timestamp": "2025-02-24T12:39:49.162776",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.2659759521484375,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 75,
+      "timestamp": "2025-02-24T12:39:49.116024",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.219224214553833,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 76,
+      "timestamp": "2025-02-24T12:39:49.116024",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.219224214553833,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 77,
+      "timestamp": "2025-02-24T12:39:49.054275",
+      "video_name": "zebras.mp4",
+      "video_size_mb": 8.587352752685547,
+      "status_code": "error",
+      "duration": 0.15747499465942383,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 78,
+      "timestamp": "2025-02-24T12:39:49.022096",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.12529659271240234,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 79,
+      "timestamp": "2025-02-24T12:39:49.022096",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.12529659271240234,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 80,
+      "timestamp": "2025-02-24T12:39:50.931575",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.2979130744934082,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 81,
+      "timestamp": "2025-02-24T12:39:50.852731",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.2190687656402588,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 82,
+      "timestamp": "2025-02-24T12:39:50.759529",
+      "video_name": "WhatsApp Video 2024-11-17 at 14.05.16.mp4",
+      "video_size_mb": 1.702256202697754,
+      "status_code": "error",
+      "duration": 0.12586712837219238,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 83,
+      "timestamp": "2025-02-24T12:39:50.760523",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.1268608570098877,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 84,
+      "timestamp": "2025-02-24T12:39:50.790780",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.15711736679077148,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 85,
+      "timestamp": "2025-02-24T12:39:50.852731",
+      "video_name": "poool.mp4",
+      "video_size_mb": 1.313176155090332,
+      "status_code": "error",
+      "duration": 0.2190687656402588,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 86,
+      "timestamp": "2025-02-24T12:39:50.759529",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.12586712837219238,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 87,
+      "timestamp": "2025-02-24T12:39:50.931575",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.2968940734863281,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 88,
+      "timestamp": "2025-02-24T12:39:50.790780",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.1560983657836914,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 89,
+      "timestamp": "2025-02-24T12:39:50.900489",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.2658076286315918,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 90,
+      "timestamp": "2025-02-24T12:39:51.805544",
+      "video_name": "safe1.mp4",
+      "video_size_mb": 4.085624694824219,
+      "status_code": "error",
+      "duration": 0.14177703857421875,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 91,
+      "timestamp": "2025-02-24T12:39:51.867278",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.20351123809814453,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 92,
+      "timestamp": "2025-02-24T12:39:51.944264",
+      "video_name": "skull.mp4",
+      "video_size_mb": 25.863967895507812,
+      "status_code": "error",
+      "duration": 0.28049731254577637,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 93,
+      "timestamp": "2025-02-24T12:39:51.836329",
+      "video_name": "knifevid.mp4",
+      "video_size_mb": 3.276212692260742,
+      "status_code": "error",
+      "duration": 0.1725623607635498,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 94,
+      "timestamp": "2025-02-24T12:39:51.914859",
+      "video_name": "VID_20210905_163425_182.mp4",
+      "video_size_mb": 1.4892406463623047,
+      "status_code": "error",
+      "duration": 0.25109267234802246,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 95,
+      "timestamp": "2025-02-24T12:39:51.806535",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.14276814460754395,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 96,
+      "timestamp": "2025-02-24T12:39:51.944264",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.28049731254577637,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 97,
+      "timestamp": "2025-02-24T12:39:51.945260",
+      "video_name": "4118304-uhd_2160_3840_25fps (1) (online-video-cutter.com).mp4",
+      "video_size_mb": 0.8865642547607422,
+      "status_code": "error",
+      "duration": 0.2814929485321045,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 98,
+      "timestamp": "2025-02-24T12:39:51.775556",
+      "video_name": "bikini.mp4",
+      "video_size_mb": 1.091963768005371,
+      "status_code": "error",
+      "duration": 0.11078524589538574,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    },
+    {
+      "request_id": 99,
+      "timestamp": "2025-02-24T12:39:51.914859",
+      "video_name": "VID20240107152808.mp4",
+      "video_size_mb": 2.402219772338867,
+      "status_code": "error",
+      "duration": 0.2500889301300049,
+      "success": false,
+      "error": "'MultipartWriter' object does not support the asynchronous context manager protocol"
+    }
+  ],
+  "analysis": {
+    "total_requests": 100,
+    "successful_requests": 0,
+    "success_rate": 0.0,
+    "total_duration": 13.108715534210205,
+    "response_times": {
+      "min": 0.10922718048095703,
+      "max": 0.2979130744934082,
+      "mean": 0.20426904678344726,
+      "median": 0.20362865924835205,
+      "p95": 0.29685195684432986
+    },
+    "video_sizes": {
+      "min": 0.4187765121459961,
+      "max": 25.863967895507812,
+      "mean": 4.900068302154541
+    },
+    "requests_per_second": 7.628512476224465
+  }
+}
